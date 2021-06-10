@@ -1,3 +1,7 @@
 este es el archivo de funcionesA
+<<<<<<< HEAD
 
 nueva linea
+=======
+esta es la primera modificacion del archivo
+>>>>>>> 44e203403d04e0f7a6dc3101af85399e3581597a
